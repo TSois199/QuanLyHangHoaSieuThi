@@ -7,4 +7,4 @@
 </ol>
 
 ## MÔ HÌNH
-<img src="/bg_doan_quanlyhanghoasieuthi.jpg"alt ="use case system"/>
+![bg_doan_quanlyhanghoasieuthi](https://github.com/TSois199/QuanLyHangHoaSieuThi/assets/125102510/2be927af-707e-42a6-9c63-d51a94d8d4cc)
